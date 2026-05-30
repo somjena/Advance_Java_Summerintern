@@ -60,6 +60,8 @@ public class StudentDriver {
                 case 5:
                     System.out.println("Enter id");
                     dbutil.getByid(sc.nextInt());
+                default:
+                    System.out.println("Enter valid data");
             }
 
         }while(choice!=0);
