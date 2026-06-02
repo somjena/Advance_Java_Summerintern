@@ -17,5 +17,9 @@ public class App
         Airtel al =(Airtel)ap.getBean("Airtel");
         al.calling();
         al.datause();
+        int id =al.getId();
+        String name = al.getName();
+        String usd = al.getUsd();
+        System.out.println("id = "+id+"\n"+"name = "+name+ " \n"+"Usd = "+usd);
     }
 }
