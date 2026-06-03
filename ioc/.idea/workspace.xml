@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6001948e-a4d0-46bb-bac2-462e9688c76d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCore/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="6.87932589697309E-151" />
+      <entry key="S2" value="4.0386759487688795E-38" />
+      <entry key="S5" value="1.6344977551768307E-15" />
+      <entry key="S10" value="5.702330356759062E-8" />
+      <entry key="S30" value="0.007386164685785999" />
+      <entry key="S60" value="0.21779181809191697" />
+      <entry key="M2" value="1.6825127729135165" />
+      <entry key="M5" value="8.316243117577136" />
+      <entry key="M10" value="18.473974832412534" />
+      <entry key="M15" value="26.609992005410668" />
+      <entry key="M30" value="41.628601882530994" />
+      <entry key="H1" value="54.02564699344242" />
+      <entry key="H2" value="62.15959977365064" />
+      <entry key="H4" value="66.84288588641462" />
+      <entry key="D1" value="71.10534466830538" />
+      <entry key="W1" value="71.87130083447921" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000000001" />
+      <entry key="S10" value="1.0000000342207505" />
+      <entry key="S30" value="1.0059995772464727" />
+      <entry key="S60" value="1.2312768387399315" />
+      <entry key="M2" value="2.880483089256474" />
+      <entry key="M5" value="10.168248871325204" />
+      <entry key="M10" value="20.947174807850157" />
+      <entry key="M15" value="28.866747463181984" />
+      <entry key="M30" value="42.31009946893319" />
+      <entry key="H1" value="52.68211071502279" />
+      <entry key="H2" value="59.248445608115844" />
+      <entry key="H4" value="62.961220808548944" />
+      <entry key="D1" value="66.30283685195477" />
+      <entry key="W1" value="66.89979753321295" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.922123814753171E-10" />
+      <entry key="MS500" value="0.013754047086924228" />
+      <entry key="S2" value="0.34245824499139144" />
+      <entry key="S5" value="0.6513929451688869" />
+      <entry key="S10" value="0.8070892675732966" />
+      <entry key="S30" value="0.9441012644928553" />
+      <entry key="S60" value="1.4075732415632203" />
+      <entry key="M2" value="4.5205058330688574" />
+      <entry key="M5" value="18.4294221897311" />
+      <entry key="M10" value="39.3615525554099" />
+      <entry key="M15" value="55.41877906072604" />
+      <entry key="M30" value="83.892163553175" />
+      <entry key="H1" value="106.67699911217909" />
+      <entry key="H2" value="121.39016416083253" />
+      <entry key="H4" value="129.79443895450902" />
+      <entry key="D1" value="137.40645927018306" />
+      <entry key="W1" value="138.77084947441438" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3EcaWx5l7WqAc2DtXyidSOE4Hg2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6001948e-a4d0-46bb-bac2-462e9688c76d" name="Changes" comment="" />
+      <created>1780480348397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780480348397</updated>
+      <workItem from="1780480349401" duration="3118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

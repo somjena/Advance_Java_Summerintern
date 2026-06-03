@@ -5,15 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5217b445-b16d-4b08-a94c-6619f61a0ad3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../JspServlet/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JspServlet/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JspServlet/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JspServlet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JspServlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JspServlet/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreSpring/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +184,8 @@
       <workItem from="1780391077648" duration="2945000" />
       <workItem from="1780394048528" duration="1178000" />
       <workItem from="1780411449427" duration="2187000" />
-      <workItem from="1780463291484" duration="2791000" />
+      <workItem from="1780463291484" duration="3707000" />
+      <workItem from="1780479697149" duration="624000" />
     </task>
     <servers />
   </component>
