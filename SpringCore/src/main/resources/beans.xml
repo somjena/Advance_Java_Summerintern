@@ -7,4 +7,21 @@
         <property name="name" value="Airtel Carrier"/>
         <property name="usd" value="USDT707"/>
     </bean>
+    <bean id="universityinfo" class="org.example.entity.University">
+        <property name="unmae" value="Centurion University"/>
+        <property name="ucode" value="CUTM-ODSIHA"/>
+    </bean>
+
+    <bean id="student1" class="org.example.entity.Student">
+        <property name="id" value="300162"/>
+        <property name="name" value="Som Jena"/>
+        <property name="univ" ref="universityinfo" />
+
+     </bean>
+    <bean id="student2" class="org.example.entity.Student">
+        <property name="id" value="300163"/>
+        <property name="name" value="Shatabdhi Ghadei"/>
+        <property name="univ"  ref="universityinfo"/>
+
+    </bean>
 </beans>
