@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6001948e-a4d0-46bb-bac2-462e9688c76d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CoreSpring/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CoreSpring/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CoreSpring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CoreSpring/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CoreSpring/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780480348397</updated>
-      <workItem from="1780480349401" duration="3118000" />
+      <workItem from="1780480349401" duration="3823000" />
     </task>
     <servers />
   </component>
